@@ -1,2 +1,2 @@
 # Checkyourtyping
-<a>testtyper.netlify.app</a>
+testtyper.netlify.app

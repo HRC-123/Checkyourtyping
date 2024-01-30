@@ -1,3 +1,2 @@
 # Checkyourtyping
-# You can access the website at 
-[testtyper.netlify.app]
+You can access the website at [Test your Typing](testtyper.netlify.app)
